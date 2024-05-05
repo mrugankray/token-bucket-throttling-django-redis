@@ -1,0 +1,4 @@
+/screnshots/
+*.pyc
+db.sqlite3
+nginx.ip.setup.conf
